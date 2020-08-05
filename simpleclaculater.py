@@ -1,0 +1,10 @@
+
+print("Enter your first number")
+a = input()
+print("Enter your second number")
+b= input()
+print("sum of the given number  is:",int(a)+int(b))
+print("sum of the given number  is:",int(a)*int(b))
+print("sum of the given number  is:",int(a)-int(b))
+print("sum of the given number  is:",int(a)/int(b))
+print("sum of the given number  is:",int(a)%int(b))
